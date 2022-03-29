@@ -1,0 +1,3 @@
+Git bash é um terminal um terminal extendido para otimizar o uso do Git.
+
+Sempre manter o Git Hub atualizado com os projetos.
